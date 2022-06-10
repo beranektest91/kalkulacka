@@ -1,4 +1,4 @@
-# kalkulacka
+# NASA kalkulacka
 Tato aplikace slouzi jako jednoducha NASA kalkulacka, ktera je napsana co nejjednoduseji, tzn. pouzivam dekoratory, OOP, separaci prostoru na main a podobne jednoduche zacatecnicky techniky v Python
 
 ## 1. Instalace
