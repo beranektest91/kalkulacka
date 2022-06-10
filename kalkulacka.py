@@ -7,7 +7,7 @@ class Kalkulacka:
     @classmethod
     def odecti(cls, a, b):
         return a - b
-    
+    #baf
     @classmethod
     def vynasob(cls, a, b):
         return a * b 
