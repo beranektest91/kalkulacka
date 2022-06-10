@@ -20,6 +20,9 @@ class Kalkulacka:
     def vynasob(cls, a:float, b:float) -> float:
         return a * b
 
+    def vydel(cls, a, b):
+	return a/b
+
 def main():
     print(Kalkulacka.secti(5, 6))
 
